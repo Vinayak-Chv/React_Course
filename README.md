@@ -6,3 +6,4 @@ Daily Report
 2nd Day - Conditional Rendering, Rendering List Items, Click Events
 3rd Day - Color Picker, Hooks Counter Program (Updater Program), OnChange Event Handler
 4th Day - State(Arrays, Arrays Objects, Objects), To-Do List
+5th Day - Stop Watch, Use Context, Use Effect(With Example 2), Use Ref Keywords
